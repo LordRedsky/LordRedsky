@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aminmuhammadrizki@gmail.com**
 
-- ⚡ Fun fact **I love dad jokes**
+- ⚡ Fun fact **I love dad jokes so much :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

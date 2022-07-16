@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/mramin-resume](https://bit.ly/mramin-resume)
 
-- ⚡ Fun fact **I love dad jokes**
+- ⚡ Fun fact **I love dad jokes :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Rizki Amin</h1>
 <h3 align="center">A passionate web developer</h3>
 <img align="right" alt="Happy Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,16 +7,19 @@
 
 - 🌱 I’m currently learning **Full-stack Javascript development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-rizki-amin-ba3167136/](https://www.linkedin.com/in/muhammad-rizki-amin-ba3167136/)
+- 👨‍💻 All of my projects are available at [https://bit.ly/mramin-resume](https://bit.ly/mramin-resume)
 
 - 📫 How to reach me **aminmuhammadrizki@gmail.com**
 
-- ⚡ Fun fact **I love dad jokes so much :D**
+- 📄 Know about my experiences [https://bit.ly/mramin-resume](https://bit.ly/mramin-resume)
+
+- ⚡ Fun fact **I love dad jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-rizki-amin-ba3167136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-rizki-amin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-rizki-amin-ba3167136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-rizki-amin-ba3167136" height="30" width="40" /></a>
 <a href="https://instagram.com/rizki_kunae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizki_kunae" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aminmuhammadriz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aminmuhammadriz1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-stack Javascript development**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/mramin-resume](https://bit.ly/mramin-resume)
+- 👨‍💻 All of my projects are available at https://mrizkiamin24.web.app/
 
 - 📫 How to reach me **aminmuhammadrizki@gmail.com**
 

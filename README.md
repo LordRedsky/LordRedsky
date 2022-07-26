@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aminmuhammadrizki@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/mramin-resume](https://bit.ly/mramin-resume)
+- 📄 Know about my experiences https://bit.ly/resume_m_rizki_amin
 
 - ⚡ Fun fact **I love dad jokes :D**
 

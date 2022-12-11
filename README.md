@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-stack Javascript development**
 
-- 👨‍💻 All of my projects are available at https://m-rizki-amin.netlify.app/
+<!-- - 👨‍💻 All of my projects are available at https://m-rizki-amin.netlify.app/ -->
 
 - 📫 How to reach me **aminmuhammadrizki@gmail.com**
 

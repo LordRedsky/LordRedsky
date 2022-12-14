@@ -12,7 +12,7 @@
 
 <!--  - 📄 Know about my experiences https://bit.ly/resume_m_rizki_amin -->
 
-- ⚡ Fun fact **I love to code and love dad jokes :D**
+- ⚡ Fun fact **I love dad jokes :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

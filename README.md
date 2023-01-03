@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordredsky&label=Profile%20views&color=0e75b6&style=flat" alt="lordredsky" /> </p>
 
-- 🌱 I’m currently learning **Full-stack Javascript development**
+- 🌱 I’m currently learning **Dart Programning Language and Flutter**
 
 - 👨‍💻 All of my projects are available at https://m-rizki-amin.netlify.app/
 

@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordredsky&label=Profile%20views&color=0e75b6&style=flat" alt="lordredsky" /> </p>
 
-- 🌱 I’m currently learning **QA Engineer at JayJay School**
+- 🌱 I’m currently learning and ekploring **TRAE AI**
 
 - 👨‍💻 All of my projects are available at https://m-rizki-amin.netlify.app/
 

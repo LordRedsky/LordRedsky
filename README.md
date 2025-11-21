@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at https://m-rizki-amin.netlify.app/
 
-- 💬 Ask me about **vue, html, css and javascript**
+- 💬 Ask me about **Javascript and vue**
 
 - 📫 How to reach me **aminmuhammadrizki@gmail.com**
 
